@@ -1,0 +1,30 @@
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    text-align: center;
+    background-color: brown;
+    
+}
+h2{
+    font-size: small;
+    text-align: center;
+}
+p{
+
+}
+body{
+    background-color: rgba(180, 68, 68, 0.678);
+}
+#centro{
+    display: flex;
+    justify-content: center;
+}
+.p1{
+    text-align: center  ;
+}
+#div1{
+    background-color: rgb(157, 74, 74);
+}
+#div2{
+    background-color: rgb(157, 74, 74);
+}
